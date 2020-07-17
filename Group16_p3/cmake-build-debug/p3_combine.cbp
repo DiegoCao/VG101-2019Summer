@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="p3_combine"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3">
+				<Option output="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p3/fast">
+				<Option output="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/zhanhuizhou/Desktop/未命名文件夹\ 2/p3(2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Curve.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Curve.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Group.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Group.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Park.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Park.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Setting.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/Setting.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/UFO.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/car.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/car.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/p3.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/p3.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/spacecraft.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/spacecraft.h">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/test.cpp">
+			<Option target="p3"/>
+		</Unit>
+		<Unit filename="/Users/zhanhuizhou/Desktop/未命名文件夹 2/p3(2)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

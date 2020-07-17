@@ -1,0 +1,6 @@
+Changelog
+On May 24th, write the total structure for the program.
+On May 28th, all basic functions, including detecting the crash, drawing, change lights and etc are done.
+On June 1st, add the speed change part for the program.
+On June 6th, add the multi-lane in the program.
+On June 7th, ensure that at most times, the car can wait for the other cars to cross the road.( Few crash would happen)

@@ -1,0 +1,18 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: E:/密院生涯/VG101/Group16_p3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGw/bin/mingw32-make.exe cmTC_efe9d/fast 
+D:/MinGw/bin/mingw32-make.exe -f CMakeFiles\cmTC_efe9d.dir\build.make CMakeFiles/cmTC_efe9d.dir/build
+mingw32-make.exe[1]: Entering directory 'E:/密院生涯/VG101/Group16_p3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_efe9d.dir/testCCompiler.c.obj
+D:\MinGw\bin\gcc.exe    -o CMakeFiles\cmTC_efe9d.dir\testCCompiler.c.obj   -c E:\瀵嗛櫌鐢熸动\VG101\Group16_p3\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+gcc.exe: error: E:\瀵嗛櫌鐢熸动\VG101\Group16_p3\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+gcc.exe: fatal error: no input files
+compilation terminated.
+CMakeFiles\cmTC_efe9d.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_efe9d.dir/testCCompiler.c.obj' failed
+mingw32-make.exe[1]: *** [CMakeFiles/cmTC_efe9d.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'E:/密院生涯/VG101/Group16_p3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Makefile:120: recipe for target 'cmTC_efe9d/fast' failed
+mingw32-make.exe: *** [cmTC_efe9d/fast] Error 2
+
+
